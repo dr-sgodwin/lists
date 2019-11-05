@@ -1,2 +1,2 @@
 # lists
-Record a list of taks using the build in database
+Record a list of tasks using the build in database.
