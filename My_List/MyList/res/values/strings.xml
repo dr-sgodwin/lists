@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My List</string>
+    <string name="action_settings">Settings</string>
+	<string name="no_items">Currently there are no list items maintained</string>
+	<string name="menu_insert">Add Item</string>
+	<string name="menu_delete">Delete Item</string>
+	<string name="mylist_summary">Summary</string>
+	<string name="mylist_description">Delete Item</string>
+	<string name="mylist_edit_summary">Summary</string>
+	<string name="mylist_edit_description">Description</string>
+	<string name="mylist_edit_confirm">Confirm</string>
+	<string name="textview_decription">Text Item</string>
+ 
+</resources>
